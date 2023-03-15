@@ -8,6 +8,10 @@ Lise can play well known opening pawn structures/ piece placement and plays inte
 [Dart chess](https://github.com/davecom/chess.dart) 
 Engine uses dart chess library for legal chess move generation, chess rules checks, etc.
 
+## Terminal Chess Play
+
+![image](https://www.linkpicture.com/q/Screen-Shot-2023-03-14-at-6.41.19-PM.png)
+
 ## Lise Acheivements:
 
 - Beating Stockfish level 1
@@ -43,7 +47,7 @@ Black Openings:
 **Negamax Algorithm**
 [Chessprogramming.org](https://www.chessprogramming.org/Negamax)
 
-- runs on depth 3, more the depth better move but slower search (not ideal for Discord)
+- runs on depth 3, more the depth better move but slower search 
 - functions with eval function
 
 **Eval function**
