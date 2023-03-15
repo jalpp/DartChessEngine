@@ -5,8 +5,8 @@ Lise can play well known opening pawn structures/ piece placement and plays inte
 
 ## Remarks
 
-[Dart chess](https://github.com/davecom/chess.dart) 
-Engine uses dart chess library for legal chess move generation, chess rules checks, etc.
+
+Engine uses [Dart chess](https://github.com/davecom/chess.dart) library for legal chess move generation, chess rules checks, etc.
 
 ## Terminal Chess Play
 
