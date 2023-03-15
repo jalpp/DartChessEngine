@@ -3,6 +3,9 @@
 Lise is Beginner chess engine re-written in Dart which uses mixture of opening book + negamax + minimax.
 Lise can play well known opening pawn structures/ piece placement and plays intermediate middlegame/opening play and beginner endgame play.
 
+## Remarks
+[Dart chess](https://github.com/davecom/chess.dart)
+
 ## Lise Acheivements:
 
 - Beating Stockfish level 1
